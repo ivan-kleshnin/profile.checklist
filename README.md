@@ -2,15 +2,15 @@
 
 ### Progress
 
-* [ ] 1. Accounts
-  * [ ] GitHub account
-  * [ ] LinkedIn account (TODO)
-
-* [ ] 2. Resume
+* [ ] 1. Resume
   * [ ] Language and Grammar
   * [ ] Avatar (TODO)
   * [ ] Goals (TODO)  
   * [ ] Interests (TODO)
+
+* [ ] 2. Accounts
+  * [ ] GitHub account
+  * [ ] LinkedIn account (TODO)
 
 * [ ] 3.1 GitHub Profile
   * [ ] Followings (20+)
@@ -52,18 +52,7 @@
 
 ## Explanations
 
-### 1. Accounts
-
-#### GitHub account
-
-Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be 
-**social networks**. Maybe it's community sizes (cumulative effect), maybe it's a better design and usability (GitLab and BitBucket render 150+ chars per line in `.md` – omg), maybe it's something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few of them are even aware of its competitors. You may prefer one's or another's plans for a commercial subscription, but be sure to setup your GitHub account properly anyway, in case you're looking for job opportunities.
-
-#### LinkedIn account
-
-(TODO)
-
-### 2. Resume
+### 1. Resume
 
 #### Language and Grammar
 
@@ -82,6 +71,17 @@ Recommended Resources:
 (TODO)
 
 #### Interests
+
+(TODO)
+
+### 2. Accounts
+
+#### GitHub account
+
+Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be 
+**social networks**. Maybe it's community sizes (cumulative effect), maybe it's a better design and usability (GitLab and BitBucket render 150+ chars per line in `.md` – omg), maybe it's something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few of them are even aware of its competitors. You may prefer one's or another's plans for a commercial subscription, but be sure to setup your GitHub account properly anyway, in case you're looking for job opportunities.
+
+#### LinkedIn account
 
 (TODO)
 
