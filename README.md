@@ -38,7 +38,10 @@
   * [ ] Interviews (TODO)
   * [ ] Polls (TODO)
   * [ ] Tech reviews (TODO)
+  * [ ] Book editing
   * [ ] Recommendations (TODO)
+  * [ ] Competitions (TODO)
+  * [ ] Ranks (TODO)
 
 ## Introduction
 
@@ -221,11 +224,22 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 
 (TODO)
 
-#### Recommendations 
+#### Tech reviews 
 
 (TODO)
 
+#### Book editing
 
+(TODO)
 
+#### Recommendations
 
+(TODO)
 
+#### Competitions
+
+(TODO)
+
+#### Ranks
+
+(TODO)
