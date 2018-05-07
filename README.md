@@ -70,7 +70,7 @@ No matter how well written, your resume won't get a thorough reading the first t
 
 #### Summary
 
-The ** most important** section of your resume is the pitch, often called Summary.
+The **most important** section of your resume is the pitch, often called Summary.
 It takes about 5 sentences where you explain what you're great at, most interested in, and how you can be useful to to your potential employer. Weak summary = No Job. You have to rewrite your summary from scratch as many times as you need to achieve the perfect result. It should be short, outstanding, and memorable at the same time.
 
 **Concrete Recipe:**
@@ -101,6 +101,12 @@ HRs seek candidates that can help them solve a problem or satisfy company's need
 Focus on what you did in the job – don't just claim "my job was X".
 Accomplishments should be unique to you, not just a list of what someone else did.
 Avoid being vague and generic – the more specific are your claims, the better.
+
+#### Skills
+
+Avoid repetitions and redundancy: HTML, XML, XHTML, HTML5, DHTML... HTML5 or just HTML is enough, given that modern search engines will
+consider your text relevant for all the others. And unless you're a Java developer – you can easily forget about XML. Same goes for 
+CSS3. Those numbers don't add value to your knowledge, they are mostly visual clutter. Avoid skills like Microsoft Word, Markdown and other skills you must have by definition. If you don't have anything else to put there – it's probably too early for you to look for a programming job.
 
 #### Style
 
