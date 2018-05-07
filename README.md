@@ -18,17 +18,17 @@
   * [ ] Stars (50+)
   * [ ] Forks (10+)
   * [ ] PRs (5+)
-  * [ ] Avatar
+  * [ ] Avatar (TODO)
   
 * [ ] 3.2 LinkedIn Profile
   * [ ] Contacts (50+)
-  * [ ] Photo
+  * [ ] Photo (TODO)
   
 * [ ] 4. Portfolio (TODO)  
   * [ ] Sandboxes (10+) (TODO)
   * [ ] Libraries (1+) (TODO)
   * [ ] Applications (1+) (TODO)
-  * [ ] Games and puzzles
+  * [ ] Games and puzzles (TODO)
   * [ ] Flagship project (1) (TODO)
   * [ ] Common errors (TODO)
 
