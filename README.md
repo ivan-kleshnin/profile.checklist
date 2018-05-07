@@ -8,11 +8,7 @@
   * [ ] Goals (TODO)  
   * [ ] Interests (TODO)
 
-* [ ] 2. Accounts
-  * [ ] GitHub account
-  * [ ] LinkedIn account (TODO)
-
-* [ ] 3.1 GitHub Profile
+* [ ] 2.1 GitHub Profile
   * [ ] Followings (20+)
   * [ ] Followers (10+) 
   * [ ] Stars (50+)
@@ -20,11 +16,11 @@
   * [ ] PRs (5+)
   * [ ] Avatar (TODO)
   
-* [ ] 3.2 LinkedIn Profile
+* [ ] 2.2 LinkedIn Profile
   * [ ] Contacts (50+)
   * [ ] Photo (TODO)
   
-* [ ] 4. Portfolio (TODO)  
+* [ ] 3. Portfolio (TODO)  
   * [ ] Sandboxes (10+) (TODO)
   * [ ] Libraries (1+) (TODO)
   * [ ] Applications (1+) (TODO)
@@ -32,7 +28,7 @@
   * [ ] Flagship project (1) (TODO)
   * [ ] Common errors (TODO)
 
-* [ ] 5. Other Formats  
+* [ ] 4. Other Formats  
   * [ ] Tutorials (TODO)
   * [ ] Articles (TODO)
   * [ ] Interviews (TODO)
@@ -57,6 +53,46 @@
 
 ### 1. Resume
 
+No matter how well written, your resume won't get a thorough reading the first time through. Generally a resume gets scanned for 10–25 seconds. Scanning is more difficult if it's hard to read, poorly organized or exceeds two pages.
+
+Use a logical format and wide margins, clean type, big and contrasty font and clear headings. Selectively apply bold and italic typeface that help guide the reader's eye. Use bullets to call attention to important points (i.e. accomplishments).
+
+#### Summary
+
+3-5 sentences. Explain what you're great at, most interested in, and how you can be useful to to your potential employer.
+This is **the most** important section of your resume – the pitch. Most people get lazy about this paragraph and their
+summaries sound like "Seeking a challenging, interesting position in X where I can use my skills of Y to contribute to Z".
+Generic, boring, not working. If you have to rewrite your summary 10 times from scratch to finally get something interesting – do that!
+
+> Here are the most common ingredients of a well-written Summary.
+> * A short phrase describing your profession
+> * Followed by a statement of broad or specialized expertise
+> * Followed by two or three additional statements related to any of the following:
+>   * breadth or depth of skills
+>   * unique mix of skills
+>   * range of environments in which you have experience
+>   * a special or well-documented accomplishment
+>   * a history of awards, promotions, or superior performance commendations
+> * One or more professional or appropriate personal characteristics
+> * A sentence describing professional objective or interest.
+> https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
+
+https://uptowork.com/blog/technical-resume-example
+
+https://uptowork.com/blog/how-to-make-a-resume
+
+https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
+
+#### Accomplishments
+
+Identify accomplishments not just job descriptions.
+
+HRs seek candidates that can help them solve a problem or satisfy company's needs. Consequently, you can't be a solution to their problems without stating how you solved similar problems in other companies and situations.
+
+Focus on what you did in the job – don't just claim "my job was X".
+Accomplishments should be unique to you, not just a list of what someone else did.
+Avoid being vague and generic – the more specific are your claims, the better.
+
 #### Language and Grammar
 
 English may be not your native language, but make sure to have (at least) all your main texts (captions, project descriptions) 
@@ -64,10 +100,6 @@ translated to English. Hopefully, I shouldn't explain why. Once you're there, ch
 
 Recommended Resources:
 * http://onlinewritingtraining.com.au/
-
-#### Avatar
-
-(TODO)
 
 #### Goals
 
@@ -77,18 +109,12 @@ Recommended Resources:
 
 (TODO)
 
-### 2. Accounts
-
-#### GitHub account
+### 2. Profiles
 
 Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be 
 **social networks**. Maybe it's community sizes (cumulative effect), maybe it's a better design and usability (GitLab and BitBucket render 150+ chars per line in `.md` – omg), maybe it's something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few of them are even aware of its competitors. You may prefer one's or another's plans for a commercial subscription, but be sure to setup your GitHub account properly anyway, in case you're looking for job opportunities.
 
-#### LinkedIn account
-
-(TODO)
-
-### 3.1 GitHub Profile
+### 2.1 GitHub Profile
 
 #### Followings
 
@@ -167,7 +193,7 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 
 (TODO)
 
-### 3.2 LinkedIn Profile
+### 2.2 LinkedIn Profile
 
 #### Contacts
 
@@ -177,7 +203,7 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 
 (TODO)
   
-### 4. Porfolio
+### 3. Porfolio
 
 #### Sandboxes
 
@@ -206,7 +232,7 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 3. ...
 4. ...
 
-### 5. Other formats
+### 4. Other formats
 
 #### Tutorials
 
