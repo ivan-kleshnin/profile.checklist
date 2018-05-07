@@ -55,6 +55,8 @@
 
 ### 1. Resume
 
+Depending on experience, your resume should be 2–3 pages long. Don't squeeze everything on one page following the imaginary "one page rule". There's no such rule. Even if you have enough experience to fill hundreds of pages, keep in mind that this isn't an autobiography; this is a marketing document that sells you. Is your internship from 2001 relevant to the position you're applying for?
+
 #### Sections
 
 No matter how well written, your resume won't get a thorough reading the first time through. Generally a resume gets scanned for 10–25 seconds. Scanning is more difficult if it's hard to read, poorly organized or exceeds two pages.
@@ -92,6 +94,8 @@ More information:
 * https://uptowork.com/blog/how-to-make-a-resume
 * https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
 
+Use Summary section instead of Objective. Employers don't really care about what they can do four your career. They care about what you can do for them insteads. The objective section is all about you, when the interview should be all about what you can do for them.
+
 #### Accomplishments
 
 Identify accomplishments not just job descriptions.
@@ -104,9 +108,14 @@ Avoid being vague and generic – the more specific are your claims, the better.
 
 #### Skills
 
-Avoid repetitions and redundancy: HTML, XML, XHTML, HTML5, DHTML... HTML5 or just HTML is enough, given that modern search engines will
-consider your text relevant for all the others. And unless you're a Java developer – you can easily forget about XML. Same goes for 
-CSS3. Those numbers don't add value to your knowledge, they are mostly visual clutter. Avoid skills like Microsoft Word, Markdown and other skills you must have by definition. If you don't have anything else to put there – it's probably too early for you to look for a programming job.
+The number of bot usage in resume search is increasing. As most bots evaluate keywords – the importance of Skills section is hard
+to overestimate.
+
+On the same time, you should avoid repetitions and redundancy: HTML, XML, XHTML, HTML5, DHTML... HTML5 or just HTML is enough.
+Those bots will use shortest terms or fuzzy matches to handle such corner cases for you. So HTML5 or just HTML should be enough. 
+And for people it will look spammy. Be conservative – unless you're a Java developer – you can easily forget about XML "skill".
+
+Avoid skills like "Microsoft Word", "Markdown" and other skills you must have by definition as a developer. If you don't have anything better to put there – it's probably too early for you to look for a programming job.
 
 Don't list years of experience with each tech. Those years will hardly be accurate and don't add anything valueable to a reader. If you have a big experience with PHP – state it explicitly in your summary. Your projects and work history prove your skills much better than abstract "years spent".
 
@@ -116,6 +125,28 @@ Avoid progress bars. They assume you know exactly the amount of knowledge in the
 
 Use a logical format and wide margins, clean type, big and contrasty font and clear headings. Selectively apply bold and italic typeface 
 that help guide the reader's eye. Use bullets to call attention to important points (i.e. accomplishments).
+
+WRITE ABOUT YOUR ACCOMPLISHMENTS, INCLUDING MEASURABLE RESULTS
+
+When you set about writing the bullet points for each of your previous roles, remember that it’s not about the work you’ve done; it’s about the things you’ve accomplished. Companies want you to duplicate your successes with them, not just your tasks, and they don’t want to just take your word for it. If possible, always include solid figures that put your accomplishments into measurable terms; you want to definitively show that you’ve increased productivity or lowered costs, for example, by x percent.
+
+USE ACTION VERBS
+
+Like the tip above, don't be afraid to take ownership of the things you’ve achieved. Phrases like "assisted with" and "participated in" are passive, and they can give off the impression that you were a bystander on the project. "Responsible for" and "contributed to" are slightly better, but action verbs like "completed", "engineered", and "developed" are the best there.
+
+This isn't to say that you should eliminate all passive phrases from your bullets, but do try to limit them. On the flipside, don't take ownership of things you haven't achieved. You want to be honest with what you've done, so if you really did only assist on a project – don't say (or imply) that you managed it. 
+
+INCLUDE SOFT SKILLS
+
+Soft skills are becoming almost as essential as technical skills to hiring managers and companies. You want to demonstrate that you're someone who can work well in a team, analyze and solve problems as they come, and communicate with all levels of an organization and everyone outside it—most importantly.
+
+So how do you show this on your resume? Use words like "negotiated", "analyzed", and "influenced". You want to be the "key player" in motivating a team or the "go-to person" for relaying information. You completed a difficult project under "tight deadlines" or "with minimal supervision". If you were ever asked to do something outside your job responsibilities, this shows flexibility. If you ever trained a new team member, then that shows leadership and communication skills. 
+
+TAILOR YOUR RESUME AS NECESSARY
+
+As tedious as it is, it’s a good idea to have a few versions of your resume if you find yourself applying to different roles. You don’t have to have a unique resume for every single job, of course, but if you’re applying for both manager and individual contributor positions, for example, then you want to have a slightly different version of your resume that’s tailored to each one.
+
+The best way to go about this is to find at least 10 recent job listings under the position title you’re going for, scan them all for common skills and experience requirements, and then emphasize those skills and experiences in your own resume. Do this for each position you’re applying for and you’ll be prepared for anything.
 
 #### Goals
 
