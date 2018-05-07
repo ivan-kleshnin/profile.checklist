@@ -2,17 +2,17 @@
 
 ### Progress
 
-* [ ] Accounts
+* [ ] 1. Accounts
   * [ ] GitHub account
   * [ ] LinkedIn account (TODO)
 
-* [ ] Resume
+* [ ] 2. Resume
   * [ ] Language and Grammar
   * [ ] Avatar (TODO)
   * [ ] Goals (TODO)  
   * [ ] Interests (TODO)
 
-* [ ] GitHub Profile
+* [ ] 3.1 GitHub Profile
   * [ ] Followings (20+)
   * [ ] Followers (10+) 
   * [ ] Stars (50+)
@@ -20,11 +20,11 @@
   * [ ] PRs (5+)
   * [ ] Avatar
   
-* [ ] LinkedIn Profile
+* [ ] 3.2 LinkedIn Profile
   * [ ] Contacts (50+)
   * [ ] Photo
   
-* [ ] Portfolio (TODO)  
+* [ ] 4. Portfolio (TODO)  
   * [ ] Sandboxes (10+) (TODO)
   * [ ] Libraries (1+) (TODO)
   * [ ] Applications (1+) (TODO)
@@ -32,7 +32,7 @@
   * [ ] Flagship project (1) (TODO)
   * [ ] Common errors (TODO)
 
-* [ ] Other Formats  
+* [ ] 5. Other Formats  
   * [ ] Tutorials (TODO)
   * [ ] Articles (TODO)
   * [ ] Interviews (TODO)
@@ -40,7 +40,7 @@
   * [ ] Tech reviews (TODO)
   * [ ] Recommendations (TODO)
 
-### General
+## Introduction
 
 > Fake it till you make it!
 > https://en.wikipedia.org/wiki/Fake_it_till_you_make_it
@@ -52,7 +52,7 @@
 
 ## Explanations
 
-### Accounts
+### 1. Accounts
 
 #### GitHub account
 
@@ -63,7 +63,7 @@ Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo sto
 
 (TODO)
 
-### Resume
+### 2. Resume
 
 #### Language and Grammar
 
@@ -85,7 +85,7 @@ Recommended Resources:
 
 (TODO)
 
-### GitHub Profile
+### 3.1 GitHub Profile
 
 #### Followings
 
@@ -164,7 +164,7 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 
 (TODO)
 
-### LinkedIn Profile
+### 3.2 LinkedIn Profile
 
 #### Contacts
 
@@ -174,7 +174,7 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 
 (TODO)
   
-### Porfolio
+### 4. Porfolio
 
 #### Sandboxes
 
@@ -203,7 +203,7 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 3. ...
 4. ...
 
-### Other formats
+### 5. Other formats
 
 #### Tutorials
 
