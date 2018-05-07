@@ -1,6 +1,14 @@
 # Profile Checklist
 
-### Options
+### Progress
+
+* [ ] 1. GitHub account
+* [ ] 2. Language and Grammar
+* [ ] 3. 20 followings
+* [ ] 4. 50 stars
+* [ ] 5. 10 forks
+
+### Explanations
 
 #### 1. GitHub account
 
@@ -49,10 +57,4 @@ do the following.
 
 Make, at least, 10 forks.
 
-### Progress
 
-1. [ ] GitHub account
-2. [ ] Language and Grammar
-3. [ ] 20 followings
-4. [ ] 50 stars
-5. [ ] 10 forks
