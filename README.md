@@ -11,6 +11,13 @@
 * [ ] 7. Articles (TODO)
 * [ ] 8. Recommendations (TODO)
 
+### General
+
+* (TODO) Your goals.
+* (TODO) Professional and non professional.
+* (TODO) Pyramid of impression.
+* (TODO) Ethics.
+
 ### Explanations
 
 #### 1. GitHub account
@@ -20,7 +27,7 @@ Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo sto
 
 #### 2. Language and Grammar
 
-Even if English is not your native language, make sure to have (at least) all your main texts (captions, project descriptions) 
+English may be not your native language, but make sure to have (at least) all your main texts (captions, project descriptions) 
 translated to English. Hopefully, I shouldn't explain why. Once you're there, check your grammar.
 
 Recommended Resources:
@@ -28,8 +35,8 @@ Recommended Resources:
 
 #### 3. Followings
 
-Start following some developers. GitHub will show you their new projects, their stars, and their own (new) followings.
-Which will gradually draw your attention to even more interesting projects and people.
+Start to follow some developers. GitHub will show you their new projects, their stars, and their own (new) followings.
+Which will keep drawing your attention to more interesting projects and people in the future. 
 
 Follow, at least, 20 people. If you aren't sure where to start, start here:
 * https://github.com/ivan-kleshnin?tab=following
@@ -45,9 +52,11 @@ Leave there a note like:
 > @your-github-username
 > https://github.com/your-github-username
 
-When people start following you (you get a GitHub notification on Home page), follow them in return. Your goal is to get 10+ followers for your account to not look "green". It doesn't matter who those followers really are (unless they are bots). P.S. Write in English only, please. *Please don't follow ME for this particular reason – I won't be able to follow you back.*
+When people start following you (you get a GitHub notification on Home page), follow them in return. It doesn't matter who those followers really are (unless they are bots). You'll be able to unfollow irrelevant people later (and find more interesting to you).
 
-#### 4. Stars
+Get, at least 10 followers in this way. *Please don't follow ME only for this particular reason – I'm not able to follow you back (my contact list is established at this point).*
+
+#### 5. Stars
 
 Check the pages of people you now follow. Give stars to their projects you find interesting. Big corps like
 Facebook may get thousands of stars for nothing, for publishing empty repos literally, while many great individual
@@ -60,7 +69,7 @@ won't be as friendly and patient.
 Give, at least, 50 stars. My list, just for reference:
 * https://github.com/ivan-kleshnin?tab=stars
 
-#### 5. Forks
+#### 6. Forks
 
 Empty account does not necessary mean you're lazy and got nothing to discuss, but it doesn't add you anything good either.
 The simplest way to fill your account is to make forks. You make forks to send Pull Requests (later) so I propose you to 
