@@ -20,7 +20,7 @@ Recommended Resources:
 Start following some developers. GitHub will show you their new projects, their stars, and their own (new) followings.
 Which will gradually draw your attention to even more interesting projects and people.
 
-If you aren't sure where to start, start here:
+Follow, at least, 20 people. If you aren't sure where to start, start here:
 * https://github.com/ivan-kleshnin?tab=following
 
 #### 4. Stars
@@ -33,6 +33,9 @@ smaller projects, they don't have enough attention. On the other hand, supporter
 are very busy and tired answering [thousands](https://github.com/Microsoft/TypeScript/issues) of questions and, in general,
 won't be as friendly and patient.
 
+Give, at least, 50 stars. My list, just for reference:
+* https://github.com/ivan-kleshnin?tab=stars
+
 #### 5. Forks
 
 Empty account does not necessary mean you're lazy and got nothing to discuss, but it doesn't add you anything good either.
@@ -44,13 +47,12 @@ do the following.
 3. Find something you may improve. Your initial help may be as small as a single typo.
 4. Send a PR. Don't be afraid to communicate if necessary – GitHub has a welcoming community.
 
-My list, just for reference:
-* https://github.com/ivan-kleshnin?tab=stars
+Make, at least, 10 forks.
 
 ### Progress
 
 1. [ ] GitHub account
 2. [ ] Language and Grammar
-3. [ ] Followings
-4. [ ] Stars
-5. [ ] Forks
+3. [ ] 20 followings
+4. [ ] 50 stars
+5. [ ] 10 forks
