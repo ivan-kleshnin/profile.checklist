@@ -70,29 +70,27 @@ No matter how well written, your resume won't get a thorough reading the first t
 
 #### Summary
 
-3-5 sentences. Explain what you're great at, most interested in, and how you can be useful to to your potential employer.
-This is **the most** important section of your resume – the pitch. Most people get lazy about this paragraph and their
-summaries sound like "Seeking a challenging, interesting position in X where I can use my skills of Y to contribute to Z".
-Generic, boring, not working. If you have to rewrite your summary 10 times from scratch to finally get something interesting – do that!
+The ** most important** section of your resume is the pitch, often called Summary.
+It takes about 5 sentences where you explain what you're great at, most interested in, and how you can be useful to to your potential employer. Weak summary = No Job. You have to rewrite your summary from scratch as many times as you need to achieve the perfect result. It should be short, outstanding, and memorable at the same time.
 
-> Here are the most common ingredients of a well-written Summary.
-> * A short phrase describing your profession
-> * Followed by a statement of broad or specialized expertise
-> * Followed by two or three additional statements related to any of the following:
->   * breadth or depth of skills
->   * unique mix of skills
->   * range of environments in which you have experience
->   * a special or well-documented accomplishment
->   * a history of awards, promotions, or superior performance commendations
-> * One or more professional or appropriate personal characteristics
-> * A sentence describing professional objective or interest.
-> https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
+**Concrete Recipe:**
 
-https://uptowork.com/blog/technical-resume-example
+1. A short phrase describing your profession
+2. Followed by a statement of a broad or specialized expertise
+3. Followed by 2–3 statements emphasizing your TOP selling points. 
+  * breadth or depth of skills
+  * unique mix of skills
+  * range of environments in which you have experience
+  * a special or well-documented accomplishment
+  * a history of awards, promotions, or superior performance recommendations
+4. One or more professional or appropriate personal characteristics
+5. One sentence describing professional objective or interest.
 
-https://uptowork.com/blog/how-to-make-a-resume
+More information:
 
-https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
+* https://uptowork.com/blog/technical-resume-example
+* https://uptowork.com/blog/how-to-make-a-resume
+* https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
 
 #### Accomplishments
 
