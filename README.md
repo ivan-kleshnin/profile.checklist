@@ -3,8 +3,10 @@
 ### Progress
 
 * [ ] 1. Resume
-  * [ ] Language and Grammar
-  * [ ] Avatar (TODO)
+  * [ ] Header
+  * [ ] Summary 
+  * [ ] Accomplishments
+  * [ ] Photo (TODO)
   * [ ] Goals (TODO)  
   * [ ] Interests (TODO)
 
