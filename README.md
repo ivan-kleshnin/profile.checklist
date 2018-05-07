@@ -108,6 +108,10 @@ Avoid repetitions and redundancy: HTML, XML, XHTML, HTML5, DHTML... HTML5 or jus
 consider your text relevant for all the others. And unless you're a Java developer – you can easily forget about XML. Same goes for 
 CSS3. Those numbers don't add value to your knowledge, they are mostly visual clutter. Avoid skills like Microsoft Word, Markdown and other skills you must have by definition. If you don't have anything else to put there – it's probably too early for you to look for a programming job.
 
+Don't list years of experience with each tech. Those years will hardly be accurate and don't add anything valueable to a reader. If you have a big experience with PHP – state it explicitly in your summary. Your projects and work history prove your skills much better than abstract "years spent".
+
+Avoid progress bars. They assume you know exactly the amount of knowledge in the specific area and those particular bits you're missing. Which is, most probably, a big lie.
+
 #### Style
 
 Use a logical format and wide margins, clean type, big and contrasty font and clear headings. Selectively apply bold and italic typeface 
@@ -120,6 +124,27 @@ that help guide the reader's eye. Use bullets to call attention to important poi
 #### Interests
 
 (TODO)
+
+#### Things to avoid
+
+Every word on your resume takes up valuable space, and you shouldn't waste it with things that clearly make no difference at an initial resume assessment. Use common sense and for each word you add, ask yourself: does this piece of information help the employer decide whether or not to call me for an interview?
+
+I recommend removing all of the following pieces of information from your resume:
+* Age or Birthday
+* Marital / relationship status
+* Gender / Sexual orientation
+* Ethnicity / Nationality / Immigration Status
+* Social Security Number
+* Driver's license (how does being a driver help you as a developer?)
+* Full address (city and state/country are fine if you want to give a general idea)
+* Irrelevant hobbies
+
+#### Photo
+
+> This is certainly a controversial topic, but personally speaking, I see no problem with it. Profile photos are everywhere on the web and you probably have them on LinkedIn, Github and a bunch of other sites. I don't see why you shouldn't be supposed to add them to your resume if you want to. Resumes with good-quality photos bring a human connection and empathy that might even give you an advantage.
+> Some say it's not professional, but I can't see what's so unprofessional about showing your face. Others say hiring managers could judge based on looks. To be honest, I prefer to assume good faith and believe that employers are looking for talent and, especially for developer roles, no one cares about looks. A smile brings people together and doesn't cause any harm IMHO.
+> Obviously, it's also totally acceptable not to add a photo as well and no job application should require one.
+> https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9
 
 ### 2. Profiles
 
