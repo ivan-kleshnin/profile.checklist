@@ -4,9 +4,11 @@
 
 * [ ] 1. GitHub account
 * [ ] 2. Language and Grammar
-* [ ] 3. 20 followings
-* [ ] 4. 50 stars
-* [ ] 5. 10 forks
+* [ ] 3. Followings (20+)
+* [ ] 4. Stars (50+)
+* [ ] 5. Forks (10+)
+* [ ] 6. Articles (TODO)
+* [ ] 7. Recommendations (TODO)
 
 ### Explanations
 
@@ -57,4 +59,11 @@ do the following.
 
 Make, at least, 10 forks.
 
+#### 6. Articles 
+
+(TODO)
+
+#### 7. Recommendations 
+
+(TODO)
 
