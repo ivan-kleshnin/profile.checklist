@@ -53,9 +53,18 @@
 
 ### 1. Resume
 
+#### Sections
+
 No matter how well written, your resume won't get a thorough reading the first time through. Generally a resume gets scanned for 10–25 seconds. Scanning is more difficult if it's hard to read, poorly organized or exceeds two pages.
 
-Use a logical format and wide margins, clean type, big and contrasty font and clear headings. Selectively apply bold and italic typeface that help guide the reader's eye. Use bullets to call attention to important points (i.e. accomplishments).
+* **Header**
+* **Summary**
+* **Experience**
+* **Skills**
+
+#### Header
+
+(TODO)
 
 #### Summary
 
@@ -93,13 +102,10 @@ Focus on what you did in the job – don't just claim "my job was X".
 Accomplishments should be unique to you, not just a list of what someone else did.
 Avoid being vague and generic – the more specific are your claims, the better.
 
-#### Language and Grammar
+#### Style
 
-English may be not your native language, but make sure to have (at least) all your main texts (captions, project descriptions) 
-translated to English. Hopefully, I shouldn't explain why. Once you're there, check your grammar.
-
-Recommended Resources:
-* http://onlinewritingtraining.com.au/
+Use a logical format and wide margins, clean type, big and contrasty font and clear headings. Selectively apply bold and italic typeface 
+that help guide the reader's eye. Use bullets to call attention to important points (i.e. accomplishments).
 
 #### Goals
 
@@ -113,6 +119,9 @@ Recommended Resources:
 
 Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be 
 **social networks**. Maybe it's community sizes (cumulative effect), maybe it's a better design and usability (GitLab and BitBucket render 150+ chars per line in `.md` – omg), maybe it's something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few of them are even aware of its competitors. You may prefer one's or another's plans for a commercial subscription, but be sure to setup your GitHub account properly anyway, in case you're looking for job opportunities.
+
+English may be not your native language, but make sure to have (at least) all your main texts (captions, project descriptions) 
+translated to English. Hopefully, I shouldn't explain why. Once you're there, check your grammar.
 
 ### 2.1 GitHub Profile
 
@@ -269,3 +278,8 @@ Don't be afraid to communicate if necessary – GitHub has a welcoming community
 #### Ranks
 
 (TODO)
+
+---
+
+Recommended Resources:
+* http://onlinewritingtraining.com.au/
