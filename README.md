@@ -5,17 +5,18 @@
 * [ ] 1. GitHub account
 * [ ] 2. Language and Grammar
 * [ ] 3. Followings (20+)
-* [ ] 4. Stars (50+)
-* [ ] 5. Forks (10+)
-* [ ] 6. Articles (TODO)
-* [ ] 7. Recommendations (TODO)
+* [ ] 4. Followers (10+) 
+* [ ] 5. Stars (50+)
+* [ ] 6. Forks (10+)
+* [ ] 7. Articles (TODO)
+* [ ] 8. Recommendations (TODO)
 
 ### Explanations
 
 #### 1. GitHub account
 
 Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be 
-**social networks**. Maybe it's the size of community, maybe it's a better design and usability (GitLab and BitBucket can't even set a proper line width to read markdown properly...), maybe it's something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few are even aware of its competitors. So use what you want for the commercial stuff, but be sure to find a time to setup your GitHub account properly, if you're looking for job opportunities.
+**social networks**. Maybe it's community sizes (cumulative effect), maybe it's a better design and usability (GitLab and BitBucket render 150+ chars per line in `.md` – omg), maybe it's something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few of them are even aware of its competitors. You may prefer one's or another's plans for a commercial subscription, but be sure to setup your GitHub account properly anyway, in case you're looking for job opportunities.
 
 #### 2. Language and Grammar
 
@@ -32,6 +33,19 @@ Which will gradually draw your attention to even more interesting projects and p
 
 Follow, at least, 20 people. If you aren't sure where to start, start here:
 * https://github.com/ivan-kleshnin?tab=following
+
+#### 4. Followers
+
+Followers are harder to get, especially for juniors who don't have many things to showcase. 
+To get rid of that pesky **0** number, I advice to *exchange* followings. I've created a chat
+to make it easier: https://gitter.im/Paqmind/juniors
+
+Leave there a note like:
+
+> @your-github-username
+> https://github.com/your-github-username
+
+When people start following you (you get a GitHub notification on Home page), follow them in return. Your goal is to get 10+ followers for your account to not look "green". It doesn't matter who those followers really are (unless they are bots). P.S. Write in English only, please. *Please don't follow ME for this particular reason – I won't be able to follow you back.*
 
 #### 4. Stars
 
@@ -59,11 +73,11 @@ do the following.
 
 Make, at least, 10 forks.
 
-#### 6. Articles 
+#### 7. Articles 
 
 (TODO)
 
-#### 7. Recommendations 
+#### 8. Recommendations 
 
 (TODO)
 
