@@ -68,7 +68,14 @@ No matter how well written, your resume won't get a thorough reading the first t
 
 #### Header
 
-(TODO)
+Recruiters expect to find your contacts right on the resume header. So I think it's a good idea to follow this convention.
+Don't add multiple emails there – it will present you as an unorganized person. Check that your contacts look professional
+and preferably contain your name:
+
+```diff
+- lord-of-chaos666@mail.inferno.com
++ john-doe@gmail.com
+```
 
 #### Summary
 
@@ -88,9 +95,17 @@ It takes about 5 sentences where you explain what you're great at, most interest
 4. One or more professional or appropriate personal characteristics
 5. One sentence describing professional objective or interest.
 
+One of the best marketing advices I heard is to *flip your statement to the opposite
+and check if it gets a bad meaning*. If so – your initial statement is probably a platitude,
+a commonplace and needs reconsideration.
+
+For example, "experienced", "specialist", "senior" adjectives aren't bad because their opposites 
+"novice", "generalist", "junior" aren't bad by default. You don't say you're automaticall better-than-others, using them.
+It's just a clarification. While "the best", "competent", "expert" are bad because nobody will use 
+terms like "the worst", "incompetent", "amateur" to describe themselves in resume.
+
 More information:
 
-* https://uptowork.com/blog/technical-resume-example
 * https://uptowork.com/blog/how-to-make-a-resume
 * https://rockportinstitute.com/resources/how-to-write-a-masterpiece-of-a-resume/
 
@@ -158,17 +173,22 @@ The best way to go about this is to find at least 10 recent job listings under t
 
 #### Things to avoid
 
-Every word on your resume takes up valuable space, and you shouldn't waste it with things that clearly make no difference at an initial resume assessment. Use common sense and for each word you add, ask yourself: does this piece of information help the employer decide whether or not to call me for an interview?
+Every word on your resume takes up valuable space, and you shouldn't waste it with things that make no difference at an initial resume assessment. Constantly ask yourself: does this piece of information help the employer decide whether or not to call me for an interview?
 
 I recommend removing all of the following pieces of information from your resume:
-* Age or Birthday
-* Marital / relationship status
-* Gender / Sexual orientation
+* Age / Birthday
+* Marital / Relationship status
+* Gender / Sexual orientation (\*)
 * Ethnicity / Nationality / Immigration Status
 * Social Security Number
 * Driver's license (how does being a driver help you as a developer?)
 * Full address (city and state/country are fine if you want to give a general idea)
 * Irrelevant hobbies
+
+(\*) – every person has at least one trait that an "average person", will consider bad or wrong. 
+You may not like kids or anymals, you may prefer loud music (making others mad), you may be a vegan or [meatan](https://www.urbandictionary.com/define.php?term=Meatan). Whatever unique features you've got, it doesn't 
+mean you have to proclaim them every now and then. Conversely, if you *enjoy* being different – have a 
+courage to meet the consequences.
 
 #### Photo
 
