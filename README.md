@@ -10,17 +10,17 @@
   * [ ] Education
   * [ ] Other stuff
 
-* [ ] Profiles
-  * [ ] GitHub
-    * [ ] Followings (20+)
-    * [ ] Followers (10+)
-    * [ ] Stars (50+)
-    * [ ] Forks (10+)
-    * [ ] PRs (5+)
-    * [ ] Avatar
-  * [ ] LinkedIn
-    * [ ] Contacts (50+)
-    * [ ] Photo
+* [ ] GitHub
+  * [ ] Followings (20+)
+  * [ ] Followers (10+)
+  * [ ] Stars (50+)
+  * [ ] Forks (10+)
+  * [ ] PRs (5+)
+  * [ ] Avatar
+
+* [ ] LinkedIn
+  * [ ] Contacts (50+)
+  * [ ] Photo
 
 * [ ] Portfolio (TODO)
   * [ ] Sandboxes (10+) (TODO)
@@ -343,7 +343,7 @@ Underestimate the power of reading the job posting carefully and doing all of yo
 
 ### Profiles
 
-Do you have a GiHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be
+Do you have a GitHub account already? GitLab, BitBucket, etc. are decent repo storages but they fail to be
 **social networks**. Maybe it’s community sizes (cumulative effect), maybe it’s a better design and usability (GitLab and BitBucket render 150+ chars per line in `.md` – omg), maybe it’s something else. Whatever it is, I can tell you 100% that many recruiters scan GitHub on daily basis, and few of them are even aware of its competitors. You may prefer one’s or another’s plans for a commercial subscription, but be sure to setup your GitHub account properly anyway, in case you’re looking for job opportunities.
 
 English may be not your native language, but make sure to have (at least) all your main texts (captions, project descriptions)
@@ -351,7 +351,7 @@ translated to English. Hopefully, I shouldn’t explain why. Once you’re there
 
 ## Profiles
 
-### GiHub
+### GitHub
 
 #### Followings
 
